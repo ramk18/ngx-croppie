@@ -17,30 +17,30 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/deej81/ngx-croppie"
+    "url": "https://github.com/ramk18/ngx-croppie"
   },
   "bugs": {
-    "url": "https://github.com/deej81/ngx-croppie/issues"
+    "url": "https://github.com/ramk18/ngx-croppie/issues"
   },
   "author": "Dan Jordan <dan.jordan@highspeedtraining.co.uk>",
   "license": "MIT",
   "devDependencies": {
-    "@angular/compiler": "^4.3.0",
-    "@angular/compiler-cli": "4.3.0",
+    "@angular/compiler": "4.1.0",
+    "@angular/compiler-cli": "4.1.0",
     "@types/croppie": "^2.4.1",
     "copyfiles": "^1.0.0",
     "rimraf": "^2.5.4",
     "rollup": "^0.37.0",
-    "typescript": "~2.4.1",
+    "typescript": "2.1.6",
     "uglify-js": "^2.7.5"
   },
   "dependencies": {
-    "@angular/common": "^4.3.0",
-    "@angular/core": "^4.3.0",
+    "@angular/common": "4.1.0",
+    "@angular/core": "4.1.0",
     "croppie": "^2.4.0",
     "reflect-metadata": "^0.1.8",
     "rxjs": "^5.0.1",
-    "zone.js": "^0.7.2"
+    "zone.js": "0.8.14"
   },
   "readme": "./README.md"
 }
